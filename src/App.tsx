@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h1>Política de Privacidade para Previsão do Tempo RAPIDA</h1>
+      <h1 className='Titulo'>Política de Privacidade para Previsão do Tempo RAPIDA</h1>
 
       <p>Esta Política de Privacidade descreve nossas políticas e procedimentos sobre a coleta, uso e divulgação de suas informações ao usar o aplicativo Previsão do Tempo RAPIDA e informa sobre seus direitos de privacidade e como a lei o protege.</p>
 
